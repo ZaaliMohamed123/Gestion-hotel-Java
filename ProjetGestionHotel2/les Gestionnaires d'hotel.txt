@@ -1,0 +1,2 @@
+GestionnaireHotel [username :Mohamed, password :AZERTYUIOP]
+GestionnaireHotel [username :Douaa, password :QSDFGHJKLM]

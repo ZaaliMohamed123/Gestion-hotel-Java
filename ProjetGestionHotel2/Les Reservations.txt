@@ -1,0 +1,3 @@
+Reservation { Client [ nom :Sekal, prenom :Douaa, CIN :AQWXSZEDC, ville :Salé, pays :Maroc] , Chambre[numero :303, type :SIMPLE, état :OCCUPEE, nombreLits :1, prix :60.0 DH ] , Date de debut de Reservation [5/1/2024] , Date de fin de Reservation [17/1/2024]}
+Reservation { Client [ nom :Zaali, prenom :Mohamed, CIN :AE315360, ville :Salé, pays :Maroc] , Chambre[numero :808, type :SIMPLE, état :OCCUPEE, nombreLits :1, prix :140.0 DH ] , Date de debut de Reservation [8/1/2024] , Date de fin de Reservation [20/1/2024]}
+Reservation { Client [ nom :Alaoui, prenom :taha, CIN :AJ102030, ville :Fes, pays :Maroc] , Chambre[numero :909, type :DOUBLE, état :LIBRE, nombreLits :1, prix :150.0 DH ] , Date de debut de Reservation [11/1/2024] , Date de fin de Reservation [23/1/2024]}
